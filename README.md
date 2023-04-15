@@ -2,7 +2,7 @@ Step 1
 npm install
 
 Step 2 
-rename .env.Example to .env
+rename env.Example to .env
 
 Step 3 
 Create a ECDSA account on: https://portal.hedera.com/

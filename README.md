@@ -21,3 +21,6 @@ Step 8 Deploy your SmartContract using remix to Hedera Network
 Step 9 on https://hashscan.io/testnet/dashboard search for your contract address and check the results
 
 Step 10 Happy SmartContract
+
+json-rpc-connections:
+https://docs.hedera.com/hedera/tutorials/more-tutorials/json-rpc-connections
